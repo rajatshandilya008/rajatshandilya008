@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajatshandilya008
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Mobile Automation
+- 👀 Interested in Automation 
+- 🌱 Currently learning Mobile Automation
 - 💞️ I’m looking to collaborate on Stock market Application Automation 
 - 📫 How to reach me . enr.rajatshandilya@gmail.com
 
